@@ -1166,6 +1166,7 @@ PartTypes=0
 [NetInfos]
 Net1=NetName=A_HPD|NetColor=clBlack
 Net2=NetName=D0+|NetColor=clRed
+Net3=NetName=Sink_D2_N|NetColor=clBlack
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
