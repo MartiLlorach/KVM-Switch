@@ -221,6 +221,191 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CLRLIVXN
 
+[Document11]
+DocumentPath=Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\drill_non-plated_pwr_sig-sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\drill_plated_pwr_sig-sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\gnd1\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\gnd2\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\pwr_sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=.\fabrication outputs\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=.\fabrication outputs\Switch.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=.\fabrication outputs\Switch.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=.\fabrication outputs\Switch.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=.\fabrication outputs\Switch.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=.\fabrication outputs\Switch.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=.\fabrication outputs\Switch.GBR1
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=.\fabrication outputs\Switch.GBR2
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=.\fabrication outputs\Switch.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=.\fabrication outputs\Switch.GM
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=.\fabrication outputs\Switch.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=.\fabrication outputs\Switch.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=.\fabrication outputs\Switch.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=.\fabrication outputs\Switch.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=.\fabrication outputs\Switch.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=.\fabrication outputs\Switch.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=.\fabrication outputs\Switch.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=.\fabrication outputs\Switch.REP
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=.\fabrication outputs\Switch.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\drill_non-plated_pwr_sig-sig\tools
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=.\fabrication outputs\odb\steps\pcb\layers\drill_plated_pwr_sig-sig\tools
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
