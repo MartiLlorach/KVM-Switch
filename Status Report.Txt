@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Switch.PcbDoc]
+   Generated File[Switch.TXT]
+   Generated File[Switch.LDP]
+   Generated File[Switch.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:53:24 On 23/11/2024

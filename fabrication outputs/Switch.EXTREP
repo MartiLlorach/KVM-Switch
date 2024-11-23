@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Switch.GBR   23/11/2024  20:53:20
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                SIG                                     
+.GP1                GND1                                    
+.GP2                GND2                                    
+.GBL                PWR/SIG                                 
+.GTO                Top Overlay                             
+.GBO                Bottom Overlay                          
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GTP                Top Paste                               
+.GBP                Bottom Paste                            
+.GM                 Profile                                 
+.GBR1               Non-plated through-hole drill file      
+.GBR2               Plated through-hole drill file          
+------------------------------------------------------------------------------------------
