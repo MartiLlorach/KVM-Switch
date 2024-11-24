@@ -331,82 +331,154 @@ DocumentPath=fabrication outputs\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=fabrication outputs\Switch.DRR
+DocumentPath=.\fabrication outputs\Switch.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=fabrication outputs\Switch.EXTREP
+DocumentPath=fabrication outputs\Switch.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=fabrication outputs\Switch.GBL
+DocumentPath=.\fabrication outputs\Switch.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=fabrication outputs\Switch.GBO
+DocumentPath=fabrication outputs\Switch.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=fabrication outputs\Switch.GBP
+DocumentPath=.\fabrication outputs\Switch.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=fabrication outputs\Switch.GBR1
+DocumentPath=fabrication outputs\Switch.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=fabrication outputs\Switch.GBR2
+DocumentPath=.\fabrication outputs\Switch.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=fabrication outputs\Switch.GBS
+DocumentPath=fabrication outputs\Switch.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=fabrication outputs\Switch.GM
+DocumentPath=.\fabrication outputs\Switch.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=fabrication outputs\Switch.GP1
+DocumentPath=fabrication outputs\Switch.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=fabrication outputs\Switch.GP2
+DocumentPath=.\fabrication outputs\Switch.GBR1
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=fabrication outputs\Switch.GTL
+DocumentPath=fabrication outputs\Switch.GBR1
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=fabrication outputs\Switch.GTO
+DocumentPath=.\fabrication outputs\Switch.GBR2
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=fabrication outputs\Switch.GTP
+DocumentPath=fabrication outputs\Switch.GBR2
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=fabrication outputs\Switch.GTS
+DocumentPath=.\fabrication outputs\Switch.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=fabrication outputs\Switch.LDP
+DocumentPath=fabrication outputs\Switch.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=fabrication outputs\Switch.REP
+DocumentPath=.\fabrication outputs\Switch.GM
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=fabrication outputs\Switch.TXT
+DocumentPath=fabrication outputs\Switch.GM
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=fabrication outputs\odb\steps\pcb\layers\drill_non-plated_pwr_sig-sig\tools
+DocumentPath=.\fabrication outputs\Switch.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument43]
+DocumentPath=fabrication outputs\Switch.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=.\fabrication outputs\Switch.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=fabrication outputs\Switch.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=.\fabrication outputs\Switch.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=fabrication outputs\Switch.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=.\fabrication outputs\Switch.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=fabrication outputs\Switch.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=.\fabrication outputs\Switch.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=fabrication outputs\Switch.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=.\fabrication outputs\Switch.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=fabrication outputs\Switch.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=.\fabrication outputs\Switch.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=fabrication outputs\Switch.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=.\fabrication outputs\Switch.REP
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=fabrication outputs\Switch.REP
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=.\fabrication outputs\Switch.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=fabrication outputs\Switch.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=fabrication outputs\odb\steps\pcb\layers\drill_non-plated_pwr_sig-sig\tools
+DItemRevisionGUID=
+
+[GeneratedDocument61]
 DocumentPath=fabrication outputs\odb\steps\pcb\layers\drill_plated_pwr_sig-sig\tools
 DItemRevisionGUID=
 
